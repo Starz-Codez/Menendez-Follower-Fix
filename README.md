@@ -1,7 +1,7 @@
 # Menendez-Follower-Fix
 Menendez 3d Printed Magazine Follower that allows the last round to load without locking the slide
 
-Print on side at a 45 deg angle
+Print on side at a 45 deg angle shown here in this image https://i.imgur.com/ACFlrI8.png
 Slide lock notch away from the bed
 Tree supports recommended 
 
