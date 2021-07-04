@@ -9,4 +9,4 @@ The orientation the file opens up to should already be set to the above specifie
 
 This Fixes the issue on the original follower where the slide would lock pre-maturely on the last round
 
-i have simply modified the original follower to fix this issue and it works no problem the slide locks open on empty butno pre-maturely
+i have simply modified the original follower to fix this issue and it works no problem the slide locks open on empty but not pre-maturely
